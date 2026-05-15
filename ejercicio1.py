@@ -1,5 +1,3 @@
 print("hola python")
 
-
-
-print("")
+print("guiguguguoñhiophiophiphiphiop")
